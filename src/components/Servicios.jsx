@@ -33,17 +33,17 @@ const Servicios = () => {
     },
     {
       id: 4,
-      icono: <TiCodeOutline />,
+      icono: <TiSocialAtCircular />,
       titulo: "Consultorias",
       descrip:
         "Te ayudo a elegir las mejores herramientas a implementar en tu web.",
     },
     {
       id: 5,
-      icono: <TiSocialAtCircular />,
-      titulo: "Gestion de Redes Sociales",
+      icono: <TiCodeOutline />,
+      titulo: "Web App",
       descrip:
-        "Mejora tu presencia en redes sociales, aumenta tu audiencia y potenciales clientes",
+        "Con tu web como aplicación en tu telefono será más fácil para tus clientes llegar a ti.",
     },
     {
       id: 6,

@@ -41,8 +41,8 @@
           categ2:"Elementor",
           destacado:"bg-[#252734]", 
           imagen:Gotoca,
-          url:"https://gotoca.net.ve",
-          tituloBtn:"visitar",
+          url:"",
+          tituloBtn:"inactivo",
         },
         {
           id:4,
@@ -74,8 +74,8 @@
           categ2:"Elementor",
           destacado:"bg-[#252734]", 
           imagen:BD,
-          url:"https://bodegondiesel.pro",
-          tituloBtn:"visitar",
+          url:" ",
+          tituloBtn:"inactivo",
         },   
     
       ];

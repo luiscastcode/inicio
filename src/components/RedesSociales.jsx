@@ -11,22 +11,22 @@ const RedesSociales = () => {
   const linksocial = [
     {
       id: 1,
-      item: <TiSocialTwitter size={40} />,
+      item: <TiSocialTwitter size={32} />,
       href: "#",
     },
     {
       id: 2,
-      item: <TiSocialInstagram size={40} />,
-      href: "https://instagram.com/k25disenaweb",
+      item: <TiSocialInstagram size={32} />,
+      href: "#",
     },
     {
       id: 3,
-      item: <TiSocialGithub size={40} />,
-      href: "https://github.com/luiscastillo-webdev",
+      item: <TiSocialGithub size={32} />,
+      href: "https://github.com/luiscastcode",
     },
     {
       id: 4,
-      item: <IoIosMail size={40} />,
+      item: <IoIosMail size={32} />,
       href: "mailto:cncompusistema@gmail.com",
     },
   ];

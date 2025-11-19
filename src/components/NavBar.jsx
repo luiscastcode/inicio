@@ -32,13 +32,13 @@ const [nav,setNav] = useState(false)
     },
     
     {
-      id:4,
+      id:3,
       link:"portafolio",
       url:"/portafolio",
     },
      
     {
-      id:5,
+      id:4,
       link:"contacto",
       url:"/contacto",
     },
@@ -61,8 +61,8 @@ const [nav,setNav] = useState(false)
       color:"#fff"
     }}> 
         
-        <h1 className="logo hidden md:flex text-4xl ml-3"><NavLink to="/">Castillo Web Dev</NavLink></h1>
-        <h1 className="logo flex md:hidden text-4xl ml-3"><NavLink to="/">CWD</NavLink></h1>
+        <h1 className="logo hidden md:flex text-4xl ml-3"><NavLink to="/">LeCastilloN</NavLink></h1>
+        <h1 className="logo flex md:hidden text-4xl ml-3"><NavLink to="/">LCN</NavLink></h1>
         
         <ul className="hidden md:flex">
           {links.map(({id, link, url})=>(

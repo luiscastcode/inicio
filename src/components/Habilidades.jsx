@@ -41,7 +41,7 @@ import { motion,useSpring } from "framer-motion"
       },
          {
         id:6,
-        nombre:"Joomla",
+        nombre:"Astro JS",
         porcentaje:"90",
         progreso:"w-[90%]",
         retraso:0.6,
@@ -64,7 +64,7 @@ const Habilidades = () => {
   return (
     <>
         <h2 className='text-white text-5xl md:text-7xl text-center w-full mt-[2rem] md:mt-[10rem]'>Habilidades</h2>
-        <div className='max-w-screen-lg mx-auto md:h-screen items-center justify-center'>   
+        <div className='max-w-screen-lg mx-auto items-center justify-center'>   
              
         {itemsHabilidades.map(({id,nombre,porcentaje,progreso,retraso})=>(
         <div 

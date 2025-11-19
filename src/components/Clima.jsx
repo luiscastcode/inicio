@@ -25,9 +25,7 @@ const Clima = () => {
                 temp:data.main.temp,               
                 icono:data.weather[0].icon,
 
-           }]);    
-    
-           console.log(data);
+           }]);        
            
         }
         obtenerClima();
